@@ -1,0 +1,12 @@
+h1{
+    color:blueviolet;
+}
+body{
+    background-color:#F4F5F4; 
+    font-family: Yu Gothic;
+    font: Yu Gothic, 20x, normal; /* if you want to save up time and write a simple line of code this is the way to go*/
+    
+    line-height: 1.4em;
+ 
+      
+}
